@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+  background-color: #f1f1f1;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.employer-container {
+  height: 100vh;
+  position: relative;
+  right: 190px;
+}
+
+.employer-card {
+  width: 520px;
+  border: none;
+  border-radius: 15px;
+  padding: 8px;
+  background-color: #fff;
+  position: relative;
+  top:-30px;
+  left: 150px;
+  height: 400px;
+}
+.post-btn{
+  position: relative;
+  left:90px
+}
+.employer-pic{
+  width: 10px;
+}
+.employer-form-section{
+    
+    position: relative;
+    left:430px;
+    top:60px;
+    /* margin-right: 300px; */
+}
+#employer-form-title{
+   margin-bottom: -10px;
+}
+#employer-form{
+   /* margin-right: -300px; */
+}
+#employer-row{
+  /* margin-right: 250px; */
+  /* padding: 0px -500px; */
+  width: 1200px;
+}
+.employer-midsec{
+   position: relative;
+   top: -80px;
+}
+.employer-stat{
+
+   position: relative;
+   top: -60px;
+}
+.employer-upper {
+  height: 130px;
+  /* width: 900px; */
+}
+
+.upper img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.user {
+  position: relative;
+}
+
+.employer-profile img {
+  height: 80px;
+  width: 20px;
+  padding: 0 120px;
+  margin-top: 2px;
+  position: relative;
+  top: -39px;
+}
+
+.profile {
+  position: absolute;
+  top: -50px;
+  left: 38%;
+  height: 90px;
+  width: 90px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+}
+
+.follow {
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 35px;
+}
+
+.stats span {
+  font-size: 29px;
+}
+
